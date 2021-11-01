@@ -6,3 +6,7 @@
 4. copy-paste the following line, on a key of your choosing, in your default keybinds file:
 
    OnPress:LoadSettings z1_settings_mw|OnPress:LoadKeybinds z1_keybinds_mw|OnPress:LoadWeapons z1_weapons_mw
+
+
+
+note: 2DRadar will have to be adjusted in both settings files.
