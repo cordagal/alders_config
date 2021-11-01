@@ -1,5 +1,7 @@
 # alders_config
 
+**a few weapons (swiss, spr, fennec, and a couple others) are configured with bullet velocity/prediction values that are not derived from meta builds (Agency/GRU suppressor, Task Force barrel)
+
 1. copy-paste twice your default settings file, and default keybinds file
 2. rename the copied files to the corresponding filenames 
 3. copy-paste the contents from the GitHub files 
